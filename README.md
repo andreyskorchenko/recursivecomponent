@@ -1,5 +1,9 @@
 # Recursive component
 
+## Preview
+
+![preview](https://github.com/andreyskorchenko/recursivecomponent/blob/master/preview.gif)
+
 ## Git clone
 
 ```
